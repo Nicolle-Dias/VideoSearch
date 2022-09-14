@@ -1,5 +1,5 @@
-# Video Search v2
+# Video Search
 
-Refatoração do App VideoSearch que consome a API do YouTube e que retorna videos ao usuário baseado em suas querys, desta vez utilizando hooks e reusable custom hooks.  
+Refatoração do App VideoSearch que consome a API do YouTube e que retorna videos ao usuário baseado em suas querys.
 
 Desenvolvido utilizando React, CSS, e Semantic UI.
